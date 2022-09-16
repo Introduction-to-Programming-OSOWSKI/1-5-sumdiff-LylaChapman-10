@@ -1,1 +1,2 @@
-#WRITE YOUR CODE IN THIS FILE
+def sumDifference( x,y):
+    return (x + y) - (x - y) 
